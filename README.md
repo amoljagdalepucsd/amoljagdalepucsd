@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amol Jagdale
 - 👀 I’m interested in Software Developement
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jagdaleamol17@gmail.com
 
 <!---
